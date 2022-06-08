@@ -1,0 +1,4 @@
+log/*
+bin/*
+libs/obj/*
+libs/shared/*
