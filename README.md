@@ -12,3 +12,5 @@ clang -Wall -pedantic src/main.c -lGL -lglfw -lvulkan -o bin/engine
 
 bin/engine
 ```
+
+![alt](https://raw.githubusercontent.com/olivermaths/vulkan_triangle/main/triangle.jpeg)
